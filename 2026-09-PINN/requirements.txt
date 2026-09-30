@@ -1,0 +1,10 @@
+# Versions tested with Python 3.12
+deepxde==1.15.0
+torch==2.14.0
+numpy==2.5.3
+scipy==1.18.1
+matplotlib==3.11.2
+
+# Jupyter (ipykernel is enough for VS Code; jupyterlab for the browser)
+ipykernel==7.3.0
+jupyterlab
