@@ -10,7 +10,7 @@ Mikołaj Miecznikowski, MSc Eng. · 30 September 2026
 
 | File | Description |
 |---|---|
-| [presentation.pdf](presentation.pdf) | Slides |
+| [lecture.pdf](lecture.pdf) | Slides |
 | [notebooks/01. poisson_equation](notebooks/01.%20poisson_equation) | Axially loaded prismatic bar: PINN |
 | [notebooks/02. cantilever_beam](notebooks/02.%20cantilever_beam) | Cantilever beam under uniform load |
 | [notebooks/03. cantilever_beam_inverse](notebooks/03.%20cantilever_beam_inverse) | Cantilever beam: identifying Young's modulus from deflection measurements (inverse problem) |
